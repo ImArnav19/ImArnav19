@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imarnav19" alt="imarnav19" /></a> </p>
 
-
-
-
-https://github.com/ImArnav19/ImArnav19/assets/117253613/d9fa0740-a6f8-4fdf-8374-48ee99827134
-
+![Heh He!](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - 🔭 I’m currently working on [Fitplano WebApp](https://github.com/hirademy/fitness-app-ui.git)
 
