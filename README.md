@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imarnav19" alt="imarnav19" /></a> </p>
 
-![Heh He!](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Heh He!](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9oamZyNzA5aGFkMGVvNDRkaGcyMjM2MmI2dGU0cTViNXk2Njd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8xmT6WoxY09lv37Jnz/giphy.gif)
 
 - 🔭 I’m currently working on [Fitplano WebApp](https://github.com/hirademy/fitness-app-ui.git)
 
