@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arnav More</h1>
 <h3 align="center">A passionate Cloud and Web Developer</h3>
 
-<iframe src="https://giphy.com/embed/8xmT6WoxY09lv37Jnz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bombaysoftwares-ipl-2024-main-hoon-naa-8xmT6WoxY09lv37Jnz">via GIPHY</a></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imarnav19&label=Profile%20views&color=0e75b6&style=flat" alt="imarnav19" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imarnav19" alt="imarnav19" /></a> </p>
+
+
+
+
+https://github.com/ImArnav19/ImArnav19/assets/117253613/d9fa0740-a6f8-4fdf-8374-48ee99827134
+
 
 - 🔭 I’m currently working on [Fitplano WebApp](https://github.com/hirademy/fitness-app-ui.git)
 
