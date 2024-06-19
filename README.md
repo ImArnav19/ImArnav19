@@ -13,7 +13,7 @@
 
 - Cloud Based [Smart Entry System](https://github.com/ImArnav19/AwsS3-Springboot-StorageApp.git)
 
-- 👨‍💻 All of my projects are available at [https://6596de8d0537cf0b39e73992--visionary-nougat-0059a8.netlify.app/](https://6596de8d0537cf0b39e73992--visionary-nougat-0059a8.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://imarnav19.github.io/)
 
 - 💬 Ask me about **react, java, AWS, python, Analysis**
 
