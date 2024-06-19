@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **morearnav019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nsbRnZTwkd6n3_CxdfgrqU5o9j3AHrqr/view](https://drive.google.com/file/d/1nsbRnZTwkd6n3_CxdfgrqU5o9j3AHrqr/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TQysypzoE6_auinmd7dbxMO2gVuJbGF2/view?usp=drive_link)
 
 - ⚡ Fun fact **I know what i do and similarly dont know what to do**
 
